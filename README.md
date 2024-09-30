@@ -14,3 +14,6 @@ This project is a personal portfolio task aimed at demonstrating my web developm
 + **Color Palette**: Green, white, black.
 + **Typography**: Poppins, Sans-serif fonts for a modern look.
 + **Layout**: Minimalistic with a strong focus on imagery and product displays.
+
+### Project Result
+![landing](https://github.com/user-attachments/assets/0649694f-22ed-46e8-b61a-f0e4424b57a4)
